@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635706299620",
+    "project_id": "lista-de-tarefas-kotlin-comp",
+    "storage_bucket": "lista-de-tarefas-kotlin-comp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635706299620:android:e12b4f1349df75954108f1",
+        "android_client_info": {
+          "package_name": "com.barreto.apptarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635706299620-n3gn80v4itj8obut6jagmap9r0vs93f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq8ULk_WHTW3ZL6atXup0lU5OHa4s251Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635706299620-n3gn80v4itj8obut6jagmap9r0vs93f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
